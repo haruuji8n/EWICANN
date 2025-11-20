@@ -1,1 +1,222 @@
 
+    1  ls
+    2  ls -al
+    3  cd documents
+    4  cd documents
+    5  ls -al
+    6  ls
+    7  cd ..
+    8  cd download
+    9  cd downloads
+   10  ls
+   11  ls -al
+   12  cd ..
+   13  cd documents
+   14  mkdir EWICAN
+   15  mkdir EWICANNN
+   16  ls
+   17  EWICANN
+   18  cd EWICAN
+   19  ls
+   20  cd ..
+   21  cd EWICANN
+   22  cd EWICANN
+   23  mkdir MARKY
+   24  cd MARKY
+   25  touch.txt
+   26  touch bop.txt
+   27  ls
+   28  rm bop.txt
+   29  ls
+   30  touch bro.txt
+   31  ls
+   32  touch read.md
+   33  touch readme.md
+   34  ls
+   35  start. readme.md
+   36  start readme.md
+   37  touch readme.html
+   38  ls
+   39  start readme.html
+   40  git init
+   41  ls -al
+   42  cd .git
+   43  ls -al
+   44  cd ..
+   45  git status
+   46  rm readme.html
+   47  rm read.md
+   48  ls
+   49  git status
+   50  git add .
+   51  git status
+   52  rm bro.txt
+   53  m
+   54  git commit
+   55   git comit
+   56  git commit-m
+   57  git commit
+   58  git config --global user.name
+   59  git config --global user.name "haruuji8n"
+   60  git config --global user.name
+   61  git config --global user.email
+   62  git config --global user.email "ewicanbrian@gmail.com"
+   63  git config --global user.email
+   64  git config --global user.name
+   65  git commit
+   66  git commit-m
+   67  git commit -m
+   68  git commit -m "first message"
+   69  git status
+   70  git branch
+   71  git branch -m main
+   72  touch bro.txt
+   73  ls
+   74  git status
+   75  git remote add origin https://github.com/haruuji8n/EWICANN.git
+   76  git push -u origin main
+   77  ls
+   78  touch borksi.html
+   79  ls
+   80  git push -u origin main
+   81  git remote add origin https://github.com/haruuji8n/EWICANN.git
+   82  git push -u origin main
+   83  git add .
+   84  git status
+   85  git commit -m "seconnnndd messge"
+   86  git push
+   87  rm borksi.html
+   88  rm readme.md
+   89  ls
+   90  rm bro.txt
+   91  cd ..
+   92  git clone https://github.com/haruuji8n/EWICANN.git~
+   93  ls
+   94  git clone https://github.com/haruuji8n/EWICANN.git
+   95  ls
+   96  cd MARKY
+   97  ls
+   98  cd ..
+   99  cd EWICANN
+  100  cd EWICAN
+  101  ls
+  102  cd ..
+  103  git clone https://github.com/haruuji8n/EWICANN.git
+  104  cd MARKY
+  105  ls
+  106  cd ..
+  107  cd EWICANN
+  108  ls
+  109  cd ..
+  110  cd MARKY
+  111  git add .
+  112  history
+  113  touch history.txt
+  114  start history.txt
+  115  git status
+  116  git add .
+  117  git status
+  118  git commit -m "thirdd messagee"
+  119  git push
+  120  git psuh
+  121  git push
+  122  cd ..
+  123  cd ..
+  124  cd MARKY
+  125  cd documents
+  126  cd MARKY
+  127  cd ..
+  128  cd EWICANN
+  129  ls
+  130  rm borksi.html
+  131  rm bro.txt
+  132  rm readme.md
+  133  ls
+  134  touch history.txt
+  135  history
+  136  git status
+  137  git add .
+  138  git status
+  139  git commit -m "third messegae"
+  140  ls
+  141  git push
+  142  git status
+  143  git status
+  144  git status
+  145  start history.txt
+  146  git status
+  147  git add .
+  148  git status
+  149  git commit -m "3rd mess"
+  150  git push
+  151  git status
+  152  ls
+  153  start history.txt
+  154  touch history1.txt
+  155  start history1.txt
+  156  git status
+  157  git add .
+  158  git staus
+  159  git status
+  160  git commit -m "3rd mess"
+  161  git push
+  162  git commit -m "third commit"
+  163  status
+  164  git status
+  165  start history1.txt
+  166  git status
+  167  git add .
+  168  git status
+  169  cd ..
+  170  cd MARKY
+  171  ls
+  172  touch history2.txt
+  173  ls
+  174  git status
+  175  git add .
+  176  git status
+  177  git commit -m "third message"
+  178  git status
+  179  git push
+  180  cd ..
+  181  cd EWICANN
+  182  ls
+  183  start history.txt
+  184  git status
+  185  git commit -m "third commit"
+  186  git push
+  187  ls
+  188  ls
+  189  git status
+  190  start history.txt
+  191  git status
+  192  touch history3.txt
+  193  start history3.txt
+  194  git status
+  195  git add.
+  196  git add .
+  197  git status
+  198  git commit -m "third message"
+  199  git push
+  200  cd ..
+  201  cd MAKRY
+  202  ls
+  203  ls
+  204  cd MARKY
+  205  ls
+  206  git status
+  207  git push
+  208  ls
+  209  rm history2.txt
+  210  ls
+  211  cd ..
+  212  cd EWICANN
+  213  ls
+  214  rm history.txt
+  215  rm history1.txt
+  216  rm history3.txt
+  217  git push
+  218  git status
+  219  touch historyyyy.txt
+  220  start historyyyy.txt
+  221  history
